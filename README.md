@@ -1,13 +1,13 @@
 # DSP48A1
 
-**Project Overview:**
+**_Project_ _Overview_:**
 This project showcases the implementation of the DSP48A1 slice on a Spartan6 FPGA using Verilog. The DSP48A1 slice is utilized to enhance arithmetic functions in digital signal processing (DSP) applications. This repository includes the Verilog code, simulation files, and synthesis reports, demonstrating a comprehensive approach to FPGA design and digital signal processing.
 
 The DSP48A1 slice is an integral component within FPGA architecture, designed to handle complex arithmetic operations efficiently.
 
 The DSP48A1 slice is essential for optimizing arithmetic functions, enhancing performance, and conserving resources in FPGA-based designs, making it crucial for a wide range of applications.
 
-**Features:**
+**_Features_:**
 Optimized Arithmetic Operations: Efficiently handles high-speed addition, subtraction, and multiplication.
 
 Enhanced DSP Performance: Executes complex multiply-accumulate (MAC) operations essential for DSP tasks.
@@ -18,7 +18,7 @@ Rigorous Verification: Thorough simulation and verification using Questasim to e
 
 Synthesis and Deployment: Design synthesis and deployment using Vivado.
 
-**Tools and Technologies:**
+**_Tools and Technologies:_**
 FPGA: Spartan6
 DSP Slice: DSP48A1
 Programming Language: Verilog
