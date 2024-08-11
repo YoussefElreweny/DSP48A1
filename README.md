@@ -24,3 +24,6 @@ DSP Slice: DSP48A1
 Programming Language: Verilog
 Simulation Tool: Questasim
 Synthesis Tool: Vivado
+
+**Schematic:**
+![Schemtaic](https://github.com/user-attachments/assets/ab7917e9-0fd5-4b82-b60d-02fe41e24d7f)
